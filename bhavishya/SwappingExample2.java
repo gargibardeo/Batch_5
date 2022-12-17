@@ -10,8 +10,8 @@ public class SwappingExample2 {
 		b=a-b;
 		a=a-b;
 		
-		System.out.println("value of a is:"+a);
-        System.out.println("value of b is:"+b);
+		System.out.println("value of a is "+a);
+        System.out.println("value of b is "+b);
 	}}
 
 	
