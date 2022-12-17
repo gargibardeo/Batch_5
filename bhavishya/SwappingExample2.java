@@ -1,4 +1,4 @@
-package com.SwappingProgram2;
+package com.DemoBasic;
 
 public class SwappingExample2 {
 
